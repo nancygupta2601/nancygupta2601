@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nancygupta2601
+- 👋 Hi, I’m nancy
 - 👀 I’m interested in many things but here I am to learn ,contribute & have fun
 - 🌱 I’m currently learning design principals
 - 💞️ I’m looking to collaborate on UI design & development
